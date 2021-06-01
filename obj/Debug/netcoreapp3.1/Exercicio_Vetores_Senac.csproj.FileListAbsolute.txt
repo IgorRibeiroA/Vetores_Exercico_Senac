@@ -1,0 +1,13 @@
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\bin\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.exe
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\bin\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.deps.json
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\bin\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.runtimeconfig.json
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\bin\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.runtimeconfig.dev.json
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\bin\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.dll
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\bin\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.pdb
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.csprojAssemblyReference.cache
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.AssemblyInfoInputs.cache
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.AssemblyInfo.cs
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.csproj.CoreCompileInputs.cache
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.dll
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.pdb
+C:\Users\acern\Desktop\GITHUB\Exercicio_Vetores_Senac\obj\Debug\netcoreapp3.1\Exercicio_Vetores_Senac.genruntimeconfig.cache
